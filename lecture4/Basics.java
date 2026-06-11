@@ -24,7 +24,7 @@ public class Basics{
       System.out.println("please enter the second no.");
       int num2 = in.nextInt();
       int sum = num1+num2;
-      System.out.println(sum);
+      System.out.println(sum);// here we are just printing not returning the value thats why its return type void or null
 
      }
 }
