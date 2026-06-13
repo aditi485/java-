@@ -5,7 +5,7 @@ public class functional_scope {
     }
     static void real(){
         int a = 15;// we can re declare the a here becoz of prior a scope is within the function.
-        System.out.println(b);// this will give error becoz it cannot be acessed here
+        // System.out.println(b);// this will give error becoz it cannot be acessed here
 
     }
 }
