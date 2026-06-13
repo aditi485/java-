@@ -9,7 +9,10 @@ public class ques1 {
         int b = in.nextInt();
         int c = in.nextInt();
         int ans = max(a,b,c);
-        System.out.println(ans);
+        System.out.println("the largest no."+ans);
+        int ans2 = min(a,b,c);
+        System.out.println("the smallest is"+ans2);
+
     }
     static int max(int num1,int num2,int num3){
         int largest = num1;
@@ -21,7 +24,16 @@ public class ques1 {
         }
         return largest;
     }
-
+    static int min(int num1,int num2,int num3){
+        int smallest = num1;
+        if(num2<smallest){
+            smallest = num2;
+        }
+        if(num3<smallest){
+            smallest = num3;
+        }
+        return smallest;
+    }
     
     
 }
