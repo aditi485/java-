@@ -9,9 +9,9 @@ public class varArgs {
         System.out.println(Arrays.toString(v));
     }
     // it can also take multiples types of argument in the same fun
-    static void funct(int a,int b, ...v){
+    // static void funct(int a,int b, ...v){
         
-    }
+    // }
 
     
 }
