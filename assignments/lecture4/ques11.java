@@ -6,6 +6,7 @@ public class ques11 {
         Scanner in = new Scanner(System.in);
         System.out.println("please enter the no.");
         int num = in.nextInt();
+        System.out.println("the given no. is"+num);
         
     }
     
