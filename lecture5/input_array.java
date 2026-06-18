@@ -9,7 +9,7 @@ public class input_array {
         arr1[0] = 5;
         arr1[1] = 56;
         arr1[2] = 71;
-        System.out.println(Arrays.toString(arr1));
+        System.out.println(Arrays.toString(arr1)); // this is the best method for taking the output.
         System.out.println(" please enter the values . ");
         for(int i =0; i<arr1.length ;i++){
             arr1[i]=in.nextInt();
