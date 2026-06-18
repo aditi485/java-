@@ -1,0 +1,17 @@
+package lecture5;
+
+import java.util.*;
+
+public class passingin {
+    public static void main(String[] args) {
+        int[] arr = {1,2,3,4,5,67};
+        System.out.println(Arrays.toString(arr));
+        change(arr);
+        System.out.println(Arrays.toString(arr));
+        
+    }
+    static void change(int[] num){
+        num[0] = 10; // the original array get change becoz arrays are muttable.
+    }
+    
+}
