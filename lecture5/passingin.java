@@ -2,7 +2,7 @@ package lecture5;
 
 import java.util.*;
 
-public class passingin {
+public class passingin {//twoDarray
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5,67};
         System.out.println(Arrays.toString(arr));
