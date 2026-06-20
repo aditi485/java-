@@ -8,15 +8,10 @@ public class ques10 {
         int n = in.nextInt();
 
     }
-    static boolean palindrome(int num){
-        String rev = "";
-        while(num>0){
-            int rem = num%10;
-            
-        }
+    
            
             
 
-    }
+    
     
 }
