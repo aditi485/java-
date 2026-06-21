@@ -1,3 +1,4 @@
+// you have to do this.
 //Write a function to find if a number is a palindrome or not. Take number as parameter.
 package assignments.lecture4;
 import java.util.*;
