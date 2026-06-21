@@ -1,7 +1,7 @@
 package lecture5;
 
 import java.util.*;
-
+// This is passing array into thew functions . 
 public class passingin {//twoDarray
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5,67};
