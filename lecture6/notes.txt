@@ -1,0 +1,8 @@
+In linear search we search for the element LINEARLY(one by one)
+for eg : we have given an array 
+arr[] = [89,67,88,90,56]
+and we have to find whether 88 is in the array we will iterate linearly first i=0then 1 then2...so on.
+
+TIME AND SPACE COMPLEXITYFOR LINEAR SEARCH:
+BEST CASE -> 0(1).      IN the best case only one comparision is made and element found at index 1.
+WORST CASE -> 0(N).     WHERE N SIZE OF ARRAY 
