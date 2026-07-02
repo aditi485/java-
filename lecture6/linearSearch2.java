@@ -1,4 +1,4 @@
-package lecture6;
+
 //In the case we have to search the element and return element for false case we can not return like that -1 boecz -1 can be element .
 public class linearSearch2 {
    public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package lecture6;
+
 
 public class stringsearch {
     public static void main(String[] args) {
