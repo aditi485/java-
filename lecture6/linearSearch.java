@@ -1,5 +1,3 @@
-
-
 public class linearSearch {
     public static void main(String[] args) {
         int [] nums = {23,4,5,6,778,90,234};
