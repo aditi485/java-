@@ -1,2 +1,2 @@
 # java-
-skilling javas
+skilling java
