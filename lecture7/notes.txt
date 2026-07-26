@@ -1,0 +1,6 @@
+binary search is a optimize to search => in this for the worst case the order of comparision is => 
+0(logN)
+Algorithm of binary search 
+1 = > search the middle element.
+2=> if the target is less the middle element then search in the right , if greater search in left.
+3=> if mid is equals to the target return the target.
